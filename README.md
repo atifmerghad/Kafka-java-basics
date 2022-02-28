@@ -1,4 +1,6 @@
 # Kafka-java-basics
+[![Node](https://img.shields.io/badge/Java-darkred.svg?style=for-the-badge)]()
+[![NPM](https://img.shields.io/badge/Kafka-darkred.svg?style=for-the-badge)]()
 
 1. ConsumerDemo
 2. ConsumerDemoGroups
